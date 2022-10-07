@@ -1,0 +1,46 @@
+.task{
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 0 auto;
+    border-bottom: 1px solid #ccc;
+    padding: 1em;
+}
+
+.details{
+   display: flex;
+   height: 100%;
+   width: 300px;
+   align-items: center;
+   padding: 10px 0;
+}
+
+.details p{
+    font-size: 1em;
+    font-weight: 600;
+    margin-left: 7px;
+    word-wrap: break-word;
+}
+
+.actions{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.actions i{
+    margin-bottom: .5em;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #282c34;
+    color: #fff;
+    padding: .4em;
+    transition: .5s;
+    margin: 2px;
+}
+
+.actions i:hover{
+    color: #61dafb;
+}
+
