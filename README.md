@@ -1,7 +1,7 @@
 
 ## 🔗 Sobre o Projeto
 
-Deploy:  [Clique aqui](https://geradordesenhas-js.netlify.app)
+Deploy:  [Clique aqui]()
 
 <p>
 Projeto TodoList
