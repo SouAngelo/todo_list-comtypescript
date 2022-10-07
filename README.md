@@ -1,46 +1,40 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔗 Sobre o Projeto
 
-## Available Scripts
+Deploy:  [Clique aqui](https://geradordesenhas-js.netlify.app)
 
-In the project directory, you can run:
+<p>
+Projeto TodoList
+</p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Layout Responsivo
+<br>
+<p align='center'>
+<img width='700' src='https://uploaddeimagens.com.br/images/004/053/994/full/screencapture-localhost-3000-2022-10-07-17_01_49.png?1665172939'>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br>
+## 🧑‍💻 Tecnologias utilizadas
+<br>
 
-### `npm test`
+- React Js
+- TypesCript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+## Implantação em produção
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Web de front-end: Netlify
+- Flexbox
+- Hooks
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🧑‍💻 Autor
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Ângelo Gustavo Pereira da Silva
 
-### `npm run eject`
+Linkedin: www.linkedin.com/in/souangelogustavo
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+E-mail: angelotj43@gmail.com
